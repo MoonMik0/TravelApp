@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="introTitle">Bizimle Birlikte <font color='#3f95ec'>\n Dünya\'yı</font> Gezin</string>
+    <string name="subIntro">En iyi gezi fırsatlarıyla sizile birlikteyiz.\n Bize güvenebilirsiniz!</string>
+</resources>

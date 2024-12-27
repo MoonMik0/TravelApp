@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+    android:id="@+id/explore"
+    android:icon="@drawable/bottom_btn1"
+    android:title="Anasayfa"
+    app:cnb_backgroundColor="@color/waterGreen"
+    app:cnb_iconColor="@color/white"
+    />
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/bottom_btn2"
+        android:title="Keşfet"
+        app:cnb_backgroundColor="@color/waterGreen"
+        app:cnb_iconColor="@color/white"
+        />
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/bottom_btn3"
+        android:title="Kaydedilenler"
+        app:cnb_backgroundColor="@color/waterGreen"
+        app:cnb_iconColor="@color/white"
+        />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/bottom_btn4"
+        android:title="Profil"
+        app:cnb_backgroundColor="@color/waterGreen"
+        app:cnb_iconColor="@color/white"
+        />
+</menu>
